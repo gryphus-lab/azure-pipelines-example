@@ -19,7 +19,7 @@
     <node.version>v16.17.1</node.version>
     <npm.version>8.3.0</npm.version>
 
-    <sonar.projectKey>abhaysinghgryphus_Spring-Boot-CRUD-Full-Stack-App-frontend</sonar.projectKey>
+    <sonar.projectKey>gryphus-lab_azure-pipelines-example-frontend</sonar.projectKey>
     <sonar.projectName>Spring Boot CRUD Full Stack App (frontend)</sonar.projectName>
     <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
     <sonar.sources>src</sonar.sources>
