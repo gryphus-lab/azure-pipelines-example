@@ -19,7 +19,7 @@
         <sonar.projectName>Spring Boot CRUD Full Stack App (backend)</sonar.projectName>
         <jacoco.plugin.version>0.8.7</jacoco.plugin.version>
         <java.version>17</java.version>
-        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.31</mysql-connector-java.version>
     </properties>
 
     <dependencies>
