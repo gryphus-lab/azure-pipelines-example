@@ -27,7 +27,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <sonar.projectKey>gryphuslab_azure-pipelines-example</sonar.projectKey>
+        <sonar.projectKey>gryphus-lab_azure-pipelines-example</sonar.projectKey>
         <sonar.projectName>Spring Boot CRUD Full Stack App on Azure</sonar.projectName>
         <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
 
